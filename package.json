@@ -1,0 +1,24 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "WTFAL",
+  "dependencies": {
+    "archiver": "^5.0.0",
+    "async": "^3.2.0",
+    "axios": "^0.20.0",
+    "discord.js": "^12.3.1",
+    "eslintrc": "^1.0.6",
+    "fs": "^0.0.1-security",
+    "googleapis": "^59.0.0",
+    "node-fetch": "^2.6.0",
+    "path": "^0.12.7",
+    "rimraf": "^3.0.2",
+    "xmldom": "^0.3.0",
+    "xpath": "^0.0.29",
+    "dotenv": "^8.2.0"
+  }
+}
